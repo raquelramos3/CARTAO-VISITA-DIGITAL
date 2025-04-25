@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(92, 182, 224);
+}
+
+h1 {
+    text-align: center;
+}
+
+main {
+    background-color: rgb(80, 123, 204);
+}
+
+img {
+    width: 200px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.img {
+    text-align: center;
+}
